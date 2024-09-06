@@ -1,0 +1,20 @@
+USE [master]
+GO
+CREATE LOGIN [loja] WITH PASSWORD=N'loja' MUST_CHANGE, DEFAULT_DATABASE=[Loja], DEFAULT_LANGUAGE=[Português (Brasil)], CHECK_EXPIRATION=ON, CHECK_POLICY=ON
+GO
+USE [Loja]
+GO
+CREATE USER [loja] FOR LOGIN [loja]
+GO
+USE [Loja]
+GO
+ALTER ROLE [db_datareader] ADD MEMBER [loja]
+GO
+USE [Loja]
+GO
+ALTER ROLE [db_datawriter] ADD MEMBER [loja]
+GO
+USE [Loja]
+GO
+ALTER ROLE [db_ddladmin] ADD MEMBER [loja]
+GO

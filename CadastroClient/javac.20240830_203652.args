@@ -1,0 +1,24 @@
+-d
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\build\\classes
+-classpath
+"C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\build\\classes;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\jakarta.persistence-2.2.3.jar;C:\\Users\\Administrador\\Desktop\\Teste01\\sqljdbc_12.6\\ptb\\mssql-jdbc-12.6.0.jre11.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.core-2.7.12.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.asm-9.4.0.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.antlr-2.7.12.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.jpa-2.7.12.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.jpa.jpql-2.7.12.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.moxy-2.7.12.jar"
+-sourcepath
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\build\\empty
+-target
+18
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\jakarta.persistence-2.2.3.jar;C:\\Users\\Administrador\\Desktop\\Teste01\\sqljdbc_12.6\\ptb\\mssql-jdbc-12.6.0.jre11.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.core-2.7.12.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.asm-9.4.0.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.antlr-2.7.12.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.jpa-2.7.12.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.jpa.jpql-2.7.12.jar;C:\\Program Files\\NetBeans-22\\netbeans\\java\\modules\\ext\\eclipselink\\org.eclipse.persistence.moxy-2.7.12.jar;C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\build\\empty"
+-s
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\build\\generated-sources\\ap-source-output
+-source
+18
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\src\\cadastroclient\\ThreadClient.java
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\src\\model\\Movimento.java
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\src\\model\\Pessoa.java
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\src\\model\\PessoaFisica.java
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\src\\model\\PessoaJuridica.java
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\src\\model\\Produto.java
+C:\\Users\\Administrador\\Desktop\\Teste01\\CadastroClient\\src\\model\\Usuario.java
